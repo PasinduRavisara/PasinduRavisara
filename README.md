@@ -1,77 +1,79 @@
-<div align="center">
-  <img src="https://media.tenor.com/-cN24qWfKmoAAAAC/zoro-one-piece.gif" width="250" alt="Zoro">
-  
-  # 👋 Hello World, I'm Pasindu Ravisara
-  ### 🎓 Data Science Undergraduate | 💻 Aspiring Full-Stack & AI Engineer | 🧠 Always Learning
+<h1 align="center">Hey there 👋 I'm Pasindu Ravisara!</h1>
+<h3 align="center">💻 BEng (Hons) Software Engineering Student | University of Westminster</h3>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Data+Science+%7C+AI+%7C+Software+Engineering;Always+Leveling+Up+Like+Zoro;Python+%E2%80%A2+Java+%E2%80%A2+React+%E2%80%A2+SQL+%E2%80%A2+MongoDB+%E2%80%A2+Figma" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://media.tenor.com/obxz0Ufdv1sAAAAd/zoro-one-piece.gif" width="250px"/>
+</p>
 
 ---
 
-## 🚀 About Me
+### ⚔️ About Me
 
-🎓 I'm an undergraduate at **SLIIT**, following the **BSc (Hons) in Data Science** awarded by the **University of Westminster**.
-
-⚔️ I bring the same focus Zoro has for swordsmanship into tech — passionate about **machine learning**, **AI**, **full-stack development**, and **UI/UX**.
-
-📊 I enjoy transforming data into insights and ideas into clean, functional, and interactive applications.
-
-🏆 Current CGPA: **3.91**  
-🌱 Always learning new technologies — currently diving deeper into **cloud**, **DevOps**, and **backend architectures**.
+- 🎓 I'm currently pursuing **BEng (Hons) Software Engineering** at the **University of Westminster** (Informatics Institute of Technology - Sri Lanka).
+- 💡 I love building full-stack projects, problem-solving, and exploring computer science concepts.
+- 🧠 Currently learning: **Spring Boot**, **React**, **System Design**, and sharpening **DSA** skills.
+- 🔭 Passionate about: Creating impactful software, collaborative teamwork, and staying curious!
+- 👾 Anime Lover (One Piece ❤️ — *Zoro is my spirit animal!*)
 
 ---
 
-## 🔧 Tech Stack
+### 📌 Featured Projects
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 📂 Featured Projects
+Here are some of my favorite works. Feel free to explore and contribute! 🔧
 
 | Project | Description |
 |--------|-------------|
-| 🎲 [Dice Game](https://github.com/PasinduRavisara/Dice-Game-Mobile-application-development) | Simple mobile dice-rolling game (React Native) |
-| 🚀 [Achieve+](https://github.com/PasinduRavisara/ACHIEVE_PLUS-SDGP) | A gamified task productivity system with rewards and burnout prevention |
-| 🎫 [RealTime Ticketing System](https://github.com/PasinduRavisara/RealTimeEventTicketingSystem-OOP) | Java-based system for real-time event ticketing |
-| 🌐 [Result Checker](https://github.com/PasinduRavisara/Result-Checker-SD1-Python) | Python-based app to check student results |
-| 🎥 [Cinema Management System](https://github.com/PasinduRavisara/Cinema-Management-SD2) | OOP project managing a cinema's operations |
-| 🕹️ [20x2 Game](https://github.com/PasinduRavisara/20x2-Game-Programming-Python) | Python 2D game with interactive gameplay |
-| 🎮 [Game Interface](https://github.com/PasinduRavisara/GameInt-Programming-Python) | UI programming with Python for a game interface |
-| 📱 [MovieApp](https://github.com/PasinduRavisara/MovieApp-Mobile-application-development) | Mobile app for exploring and booking movies |
-| 🌐 [Achieve+ Website](https://github.com/PasinduRavisara/AchievePlus-MarketingWebsite) | React.js website promoting the Achieve+ app |
-| 📊 [Network Flow Algorithms](https://github.com/PasinduRavisara/NetworkFlow-Algorithms) | Max flow algorithms implemented in Java |
+| 🎲 [Dice Game - Mobile App Dev](https://github.com/PasinduRavisara/Dice-Game-Mobile-application-development) | Simple dice game built during my mobile development learning. |
+| ✅ [Achieve+ - Productivity App](https://github.com/PasinduRavisara/ACHIEVE_PLUS-SDGP) | Gamified task manager for teams – motivation meets software engineering! |
+| 🎫 [Real-Time Event Ticketing System](https://github.com/PasinduRavisara/RealTimeEventTicketingSystem-OOP) | OOP-based Java app to manage event tickets. |
+| 📊 [Network Flow Algorithms](https://github.com/PasinduRavisara/NetworkFlow-Algorithms) | Implementation of Ford-Fulkerson and Edmonds-Karp in Java. |
+| 📽️ [Cinema Management System](https://github.com/PasinduRavisara/Cinema-Management-SD2) | Second-year project to manage cinema operations. |
+| 🎮 [20x2 Python Game](https://github.com/PasinduRavisara/20x2-Game-Programming-Python) | Arcade-style game made using Python. |
 
 ---
 
-## 📈 GitHub Stats
+### 🧠 Skills & Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PasinduRavisara&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PasinduRavisara&theme=tokyonight&hide_border=false" height="180" />
-</div>
-
----
-
-## 🎯 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasinduravisara) 
-📫 **Email**: pasinduravisara@gmail.com
-
-<div align="center">
-  <img src="https://media.tenor.com/L9nAeIUGFAwAAAAC/zoro-one-piece.gif" width="200" alt="Zoro Outro">
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,react,js,html,css,tailwind,spring,mysql,git,github,vscode,figma" />
+</p>
 
 ---
 
-> "Scars on the back are a swordsman's shame." – Roronoa Zoro
+### 📈 GitHub Stats
 
-Stay focused. Keep growing. Sharpen your skills like Zoro sharpens his swords. 💪
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PasinduRavisara&show_icons=true&theme=tokyonight" alt="stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduRavisara&theme=tokyonight" />
+</p>
+
+---
+
+### 🧭 Personal Philosophy
+
+> _"A scar on the back is a swordsman's shame."_ — **Roronoa Zoro**
+
+I believe in pushing forward with **discipline**, **integrity**, and **grit** — just like Zoro.
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pasinduravisara/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:pasinduravisara@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/PasinduRavisara">
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.tenor.com/iF1pK5r4rH8AAAAC/zoro-one-piece.gif" width="200px"/>
+</p>
