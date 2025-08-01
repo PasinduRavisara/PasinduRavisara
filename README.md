@@ -5,7 +5,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=50&lines=Software+Engineering+Undergraduate;Passionate+about+building+real-world+software+solutions;Java+%7C+Spring+Boot+%7C+React+%7C+Python+%7C+SQL+%7C+Android+Development" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=50&lines=Software+Engineering+Undergraduate;Passionate+about+building+real-world+software+solutions;Java+%7C+Spring+Boot+%7C+React+%7C+Python+%7C+Android+Development" alt="Typing animation" />
 </p>
 
 ---
