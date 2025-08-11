@@ -24,17 +24,18 @@
 Here’s a curated list of my academic and personal software projects:
 
 | Project | Description | Tech |
-|--------|-------------|------|
-| 🎲 [Dice Game - Mobile App](https://github.com/PasinduRavisara/Dice-Game-Mobile-application-development) | A simple two-player dice game for Android | Kotlin, Android Studio |
-| ✅ [Achieve+ (Productivity Platform)](https://github.com/PasinduRavisara/ACHIEVE_PLUS-SDGP) | Gamified team-based productivity app to track tasks and prevent burnout | Java, Spring Boot, React |
+|---------|-------------|------|
+| ✅ [ACHIEVE+](https://github.com/PasinduRavisara/ACHIEVE_PLUS) | Gamified team-based productivity app to track tasks and prevent burnout | Java, React, Spring Boot |
 | 🎫 [Real-Time Event Ticketing System](https://github.com/PasinduRavisara/RealTimeEventTicketingSystem-OOP) | Java-based console application for event ticket management | Java, OOP |
-| 🌐 [Achieve+ Marketing Website](https://github.com/PasinduRavisara/AchievePlus-MarketingWebsite) | Promotional landing page for the Achieve+ platform | HTML, CSS, JavaScript |
-| 🧮 [Result Checker](https://github.com/PasinduRavisara/Result-Checker-SD1-Python) | Python script to input and calculate student results | Python |
 | 🎬 [Cinema Management System](https://github.com/PasinduRavisara/Cinema-Management-SD2) | A software for cinema seat booking and ticket management | Java |
 | 🔁 [Network Flow Algorithms](https://github.com/PasinduRavisara/NetworkFlow-Algorithms) | Implementation of Ford-Fulkerson and Edmonds-Karp algorithms | Java |
-| 🎮 [20x2 Game](https://github.com/PasinduRavisara/20x2-Game-Programming-Python) | Fun mini-game in Python with graphical interface | Python, Tkinter |
-| 🕹️ [Game Interface Programming](https://github.com/PasinduRavisara/GameInt-Programming-Python) | Python game prototype with basic input handling | Python |
-| 🎥 [Movie App - Mobile Dev](https://github.com/PasinduRavisara/MovieApp-Mobile-application-development) | Android app to browse and preview movie info | Kotlin, Android |
+| 🎥 [MovieInfo](https://github.com/PasinduRavisara/MovieApp-Mobile-application-development) | Android app to browse and preview movie info | Kotlin |
+| 🎲 [Roll Master](https://github.com/PasinduRavisara/Dice-Game-Mobile-application-development) | A simple two-player dice game for Android | Kotlin |
+| 🌐 [Achieve+ Marketing Website](https://github.com/PasinduRavisara/AchievePlus-MarketingWebsite) | Promotional landing page for the Achieve+ platform | HTML, CSS, JavaScript |
+| 🧮 [Result Checker](https://github.com/PasinduRavisara/Result-Checker-SD1-Python) | Python script to input and calculate student results | Python |
+| 🎮 [20x2 Game](https://github.com/PasinduRavisara/20x2-Game-Programming-Python) | Fun mini-game in Python with graphical interface | Python |
+| 🕹️ [Simple Game Interface](https://github.com/PasinduRavisara/GameInt-Programming-Python) | Python game prototype with basic input handling | Python |
+
 
 ---
 
