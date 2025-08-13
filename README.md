@@ -34,7 +34,7 @@ Here’s a curated list of my academic and personal software projects:
 | 🌐 [Achieve+ Marketing Website](https://github.com/PasinduRavisara/AchievePlus-MarketingWebsite) | Promotional landing page for the Achieve+ platform | HTML, CSS, JavaScript |
 | 🧮 [Result Checker](https://github.com/PasinduRavisara/Result-Checker-SD1-Python) | Python script to input and calculate student results | Python |
 | 🎮 [20x2 Game](https://github.com/PasinduRavisara/20x2-Game-Programming-Python) | Fun mini-game in Python with graphical interface | Python |
-| 🕹️ [Simple Game Interface](https://github.com/PasinduRavisara/GameInt-Programming-Python) | Python game prototype with basic input handling | Python |
+| 🕹️ [GameInt](https://github.com/PasinduRavisara/GameInt-Programming-Python) | Python game prototype with basic input handling | Python |
 
 
 ---
