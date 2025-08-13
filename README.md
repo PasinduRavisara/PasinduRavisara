@@ -12,7 +12,7 @@
 
 ### 🧭 About Me
 
-- 🎓 Final-year Software Engineering undergraduate at **University of Westminster** (Informatics Institute of Technology - Sri Lanka)
+- 🎓 Third-year Software Engineering undergraduate at **University of Westminster** (Informatics Institute of Technology - Sri Lanka)
 - 🔨 Passionate about building full-stack applications and solving real-world problems
 - 💡 Currently focused on mastering **Spring Boot**, **React**, **Python**, and **System Design**
 - 🚀 Open to internships, freelance opportunities, and team-based projects.
